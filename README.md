@@ -17,11 +17,9 @@
   - Combines features extracted from multiple CNN models for enhanced class discrimination.
 
 
-  - **Feature Optimization:**
+- **Feature Optimization:**
 
-
-
-    Employs meta-heuristic algorithms (e.g., **FPA**, **PSO**) to select the most discriminative features, reducing noise and improving classification performance.
+    - Employs meta-heuristic algorithms (e.g., **FPA**, **PSO**) to select the most discriminative features, reducing noise and improving classification performance.
 
 - **High Classification Metrics**:
 
