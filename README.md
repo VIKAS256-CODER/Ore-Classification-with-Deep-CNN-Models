@@ -1,5 +1,6 @@
 # 🏔️ Ore Classification with Optimized CNN Ensembles and Feature Fusion
 ![dataset-cover](https://github.com/user-attachments/assets/b6269a83-2c4f-4f91-b36d-65d00b0687a8)
+
 ## 🌟 Overview
 
 **Ore Classification Project** utilizes state-of-the-art deep learning techniques to improve the classification of ores based on their mineral composition. This project combines CNN ensembles, feature fusion, and optimization algorithms to deliver robust and accurate classification results, demonstrating significant advancements over traditional and standalone machine learning models.
@@ -8,20 +9,17 @@
 
 ## ✨ Key Features
 
-- **Advanced CNN Ensembles**:
 
-  - Utilizes **AlexNet**, **VGG16**, and **Xception** models in an ensemble with weighted voting for superior accuracy.
 
 - **Feature Fusion**:
-
   - Combines features extracted from multiple CNN models for enhanced class discrimination.
 
-
-- **Feature Optimization:**
-
-    - Employs meta-heuristic algorithms (e.g., **FPA**, **PSO**) to select the most discriminative features, reducing noise and improving classification performance.
-
+- **Feature Optimization**:
+  - Employs meta-heuristic algorithms (e.g., **FPA**, **PSO**) to select the most discriminative features, reducing noise and improving classification performance.
+- **Advanced CNN Ensembles**:
+  - Utilizes **AlexNet**, **VGG16**, and **Xception** models in an ensemble with weighted voting for superior accuracy.
 - **High Classification Metrics**:
+  - Achieves **98.11% accuracy**, **98.18% precision**, and **97.80% Cohen’s kappa** on the OID dataset.
 
   - Achieves **98.11% accuracy**, **98.18% precision**, and **97.80% Cohen’s kappa** on the OID dataset.
 
