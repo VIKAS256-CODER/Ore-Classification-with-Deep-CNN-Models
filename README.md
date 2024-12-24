@@ -21,7 +21,7 @@
 - **High Classification Metrics**:
   - Achieves **98.11% accuracy**, **98.18% precision**, and **97.80% Cohen’s kappa** on the OID dataset.
 
-  - Achieves **98.11% accuracy**, **98.18% precision**, and **97.80% Cohen’s kappa** on the OID dataset.
+  
 
 ---
 
