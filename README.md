@@ -16,7 +16,6 @@
 
   - Combines features extracted from multiple CNN models for enhanced class discrimination.
 
--
 
   - **Feature Optimization:**
 
